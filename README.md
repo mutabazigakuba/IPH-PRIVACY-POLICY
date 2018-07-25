@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ingabo Plant health Privacy Policy for Android Application Ingabo Connect
 
 You can use the [editor on GitHub](https://github.com/mutabazigakuba/IPH-PRIVACY-POLICY/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

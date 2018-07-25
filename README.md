@@ -23,7 +23,7 @@ While using our Service, we may ask you to provide us with certain personally id
 
 • Cookies and Usage Data
 
-Usage Data
+### Usage Data
 
 We may also collect information that your browser sends whenever you visit our Service or when you access the Service by or through a mobile device ("Usage Data").
 
@@ -42,7 +42,9 @@ You can instruct your browser to refuse all cookies or to indicate when a cookie
 Examples of Cookies we use:
 
 **• Session Cookies.** We use Session Cookies to operate our Service.
+
 **• Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+
 **• Security Cookies.** We use Security Cookies for security purposes.
 
 # Use of Data
@@ -108,7 +110,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
-• By visiting this page on our website: [www.ingabo.rw] (www.ingabo.rw)
+• By visiting this page on our website: [www.ingabo.rw](www.ingabo.rw)
 • Or by phone: +250 788313028
 • Via email: `info@ingabo.rw`
 

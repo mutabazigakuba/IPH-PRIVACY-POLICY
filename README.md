@@ -112,6 +112,6 @@ If you have any questions about this Privacy Policy, please contact us:
 
 • By visiting this page on our website: [www.ingabo.rw](www.ingabo.rw)
 
-• Or by phone: +250 788313028
+• Or by phone: `+250 788313028`
 
 • Via email: `info@ingabo.rw`

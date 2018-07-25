@@ -1,6 +1,6 @@
-## Welcome to Ingabo Plant health Privacy Policy for Android Application Ingabo Connect
+# Welcome to Ingabo Plant health Privacy Policy for Android Application Ingabo Connect
 
-### Effective date: July 1st , 2018
+## Effective date: July 1st , 2018
 
 Ingabo Plant Health LTD ("us", "we", or "our") operates the website and the Ingabo Connect mobile Android application (the "Service").
 
@@ -19,9 +19,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
-• Pictures of Plant diseases, this will be collected and stored on our database of images , metadata to allow us to develop an automated visual recognition of diseases as well as answers any query you may have on your crops.
+**• Pictures of Plant diseases**, this will be collected and stored on our database of images , metadata to allow us to develop an automated visual recognition of diseases as well as answers any query you may have on your crops.
 
-• Cookies and Usage Data
+## • Cookies and Usage Data
 
 ### Usage Data
 
@@ -31,7 +31,7 @@ This Usage Data may include information such as your computer's Internet Protoco
 
 When you access the Service by or through a mobile device, this Usage Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data.
 
-Tracking & Cookies Data
+## Tracking & Cookies Data
 
 We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
@@ -39,7 +39,7 @@ Cookies are files with small amount of data which may include an anonymous uniqu
 
 You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-Examples of Cookies we use:
+### Examples of Cookies we use:
 
 **• Session Cookies.** We use Session Cookies to operate our Service.
 
@@ -59,7 +59,7 @@ Ingabo Plant Health LTD uses the collected data for various purposes:
 • To monitor the usage of the Service
 • To detect, prevent and address technical issues
 
-Transfer of Data
+### Transfer of Data
 
 If you are located outside Rwanda and choose to provide information to us, please note that we transfer the data,excluding Personal Data, to a server located in Rwanda and process it there.
 
@@ -111,33 +111,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, please contact us:
 
 • By visiting this page on our website: [www.ingabo.rw](www.ingabo.rw)
+
 • Or by phone: +250 788313028
+
 • Via email: `info@ingabo.rw`
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mutabazigakuba/IPH-PRIVACY-POLICY/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
